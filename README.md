@@ -35,13 +35,13 @@ After the all-in-one PowerShell script has run and created all the required reso
 ## Manual resources
 This Delegated Form uses the following resources in order to run
 
-### Powershell data source 'AD-user-generate-table-wildcard'
+### Powershell data source 'AD-user-generate-table-wildcard-move'
 This Powershell data source runs an Active Directory query to search for matching AD user accounts. It uses an array of Active Directory OU's specified as HelloID user defined variable named _"ADusersSearchOU"_ to specify the search scope.
 
-### Powershell data source 'AD-user-generate-table-attributes-basic'
+### Powershell data source 'AD-user-generate-table-attributes-basic-move'
 This Powershell data source runs an Active Directory query to select a list of basic user attributes of the selected AD user account.  
 
-### Static data source 'AD-ou-generate-table-create'
+### Static data source 'AD-account-generate-table-account-types-account-move'
 This Static data source returns the available Active Directory containers.
 
 ### Delegated form task 'AD-user-move'
