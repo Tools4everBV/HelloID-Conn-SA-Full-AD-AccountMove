@@ -1,6 +1,6 @@
 [
     {
-        "key":  "Type",
+        "key":  "Name",
         "type":  0
     },
     {
@@ -8,15 +8,15 @@
         "type":  0
     },
     {
-        "key":  "Selected",
-        "type":  0
-    },
-    {
-        "key":  "Name",
+        "key":  "Type",
         "type":  0
     },
     {
         "key":  "Groups",
+        "type":  0
+    },
+    {
+        "key":  "Selected",
         "type":  0
     }
 ]
