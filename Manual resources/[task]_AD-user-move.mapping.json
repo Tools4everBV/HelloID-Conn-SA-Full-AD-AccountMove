@@ -1,0 +1,10 @@
+[
+    {
+        "name":  "ou",
+        "value":  "{{form.ou.Path}}"
+    },
+    {
+        "name":  "userPrincipalName",
+        "value":  "{{form.gridUsers.UserPrincipalName}}"
+    }
+]
