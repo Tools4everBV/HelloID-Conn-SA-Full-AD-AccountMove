@@ -1,6 +1,6 @@
 # Account Move
 
-This form moves an AD account to a different container. For example, to move an account created in a disabled OU.
+This form moves an AD account to a different container. For example, to move an account created in a disabled OU into an enabled OU.
 
 ## Business Benefits
 
