@@ -46,3 +46,6 @@ This Static data source returns the available Active Directory containers.
 
 ### Delegated form task 'AD-user-move'
 This delegated form task will move the selected AD user account to the selected AD container.
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
