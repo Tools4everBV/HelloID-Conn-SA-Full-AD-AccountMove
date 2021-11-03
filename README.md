@@ -4,7 +4,14 @@ This HelloID Service Automation Delegated Form provides AD Account move function
  1. Search and select the target AD user account
  2. Show basic AD user account attributes of selected target user
  3. Select a new AD container for the selected target user
- 
+
+
+## Versioning
+| Version | Description | Date |
+| - | - | - |
+| 1.0.1   | Added version number and updated all-in-one script | 2021/11/03  |
+| 1.0.0   | Initial release | 2020/09/01  |
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [Description](#description)
@@ -12,6 +19,7 @@ This HelloID Service Automation Delegated Form provides AD Account move function
   * [Getting started](#getting-started)
 * [Post-setup configuration](#post-setup-configuration)
 * [Manual resources](#manual-resources)
+* [Getting help](#getting-help)
 
 
 ## All-in-one PowerShell setup script
@@ -47,5 +55,8 @@ This Static data source returns the available Active Directory containers.
 ### Delegated form task 'AD-user-move'
 This delegated form task will move the selected AD user account to the selected AD container.
 
-# HelloID Docs
+## Getting help
+_If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/service-automation/512-helloid-sa-active-directory-ad-account-move)_
+
+## HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
